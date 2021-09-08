@@ -1,6 +1,6 @@
 ## Short Bio
 
-I am a MS student in the [System INtelligence Group](https://singkru.github.io/), supervised by Prof. [Seung Jun Baek](https://singkru.github.io/) in Korea University. I completed my BS degree in Korea University double majoring Computer Science and Mathematics.
+I am a MS student in the [System INtelligence Group](https://singkru.github.io/), supervised by Prof. [Seung Jun Baek](https://singkru.github.io/) in Korea University. I completed my BS degree in Korea University double majoring in Computer Science and Mathematics.
 
 Preferred way of being contacted: iamsihwapark@gmail.com
 
