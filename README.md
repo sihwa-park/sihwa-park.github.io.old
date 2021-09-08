@@ -10,6 +10,7 @@ In detail, I am interested in how to deliver AI systems or performances to peopl
 - _Master of Computer Science_
 - 2021 - Present
 
+
 - Korea University - Seoul, South Korea
 - _Bachelor of Computer Science and Mathematics_
 - 2015 - 2021
