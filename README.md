@@ -16,3 +16,16 @@ In detail, I am interested in how to deliver AI systems or performances to peopl
 - 2015 - 2021
   - Was on an exchange program to the University of Toronto for 2019 Fall - 2020 Spring semesters.
 
+## Work Experience
+
+- Withcat Software
+- 2019 - 2021
+  - Built an e-learning website using JAVA Spring framework and PHP.
+  - Built face detection and face recognition system with [Arcface](https://github.com/deepinsight/insightface)
+
+## Skills
+
+- Web programming (Python, PHP, JAVA)
+- Machine Learning Programming (Python, Matlab, Pytorch)
+- Fluent in Korean and English
+
