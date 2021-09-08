@@ -6,10 +6,12 @@ In detail, I am interested in how to deliver AI systems or performances to peopl
 
 ## Education
 
-Korea University - Seoul, South Korea
-_Master of Computer Science_
-2021 - Present
+- Korea University - Seoul, South Korea
+- _Master of Computer Science_
+- 2021 - Present
 
-Korea University - Seoul, South Korea
-_Bachelor of Computer Science and Mathematics_
-2015 - 2021
+- Korea University - Seoul, South Korea
+- _Bachelor of Computer Science and Mathematics_
+- 2015 - 2021
+  - Was on an exchange program to the University of Toronto for 2019 Fall - 2020 Spring semesters.
+
