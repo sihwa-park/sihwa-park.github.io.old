@@ -1,6 +1,6 @@
 ## Short Bio
 
-I am a MS student in the [System INtelligence Group](https://singkru.github.io/), supervised by Prof. [Seung Jun Baek](https://singkru.github.io/) in Korea University. I completed my BS degree in Korea University double majoring in Computer Science and Mathematics. Prior to starting my graduate degree, I spent a year working at Withcat Software in South Korea, Seoul. More details in my CV [here.](/sihwa-park-cv.pdf) 
+I am a MS student in the [System INtelligence Group](https://singkru.github.io/), supervised by Prof. [Seung Jun Baek](https://singkru.github.io/) in Korea University. I completed my BS degree in Korea University double majoring in Computer Science and Mathematics. Prior to starting my graduate degree, I spent a year working at Withcat Software in South Korea, Seoul. My role was related to build a face detection and recognition model. More details in my CV [here.](/sihwa-park-cv.pdf) 
 
 Preferred way of being contacted: iamsihwapark@gmail.com
 
