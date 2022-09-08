@@ -18,5 +18,7 @@ To be updated
 
 ## Teachings
 
-To be updated
+Digital Finance Engineering Freshmen Summer Program (August, 2022)
+
+Taught basic calculus, linear algebra and statistics for Digital Finance Engineering major freshmen students. (4weeks program)
 
