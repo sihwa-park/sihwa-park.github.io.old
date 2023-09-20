@@ -10,15 +10,14 @@ My research passion revolves around using the power of deep learning algorithms 
 
 ## Publications
 
-3D Teeth Reconstruction from Panoramic Radiographs using Neural Implicit Functions
-
-***Sihwa Park**, SeongJun Kim, In-Seok Song, and Seungjun Baek in International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 **(Top 14% Paper)***
+* 3D Teeth Reconstruction from Panoramic Radiographs using Neural Implicit Functions
+*__Sihwa Park__, SeongJun Kim, In-Seok Song, and Seungjun Baek in International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 __(Top 14% Paper)__*
 
 Papers Under Review:
 
 Estimating 3D Dental Structures using Simulated Panoramic Radiographs and Neural Ray Tracing [[arxiv]](https://arxiv.org/abs/2304.04027)
 
-***Sihwa Park**, SeongJun Kim, Doeyoung Kwon, Yohan Jang, In-Seok Song, and Seungjun Baek*
+*__Sihwa Park__, SeongJun Kim, Doeyoung Kwon, Yohan Jang, In-Seok Song, and Seungjun Baek*
 
 ## Teachings
 
