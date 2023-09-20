@@ -2,7 +2,7 @@
 
 I am a researcher at the [System INtelligence Group](https://singkru.github.io/) at Korea University, supervised by Prof. [Seung Jun Baek](https://singkru.github.io/). I completed my Bachelor of Science in Computer Science and Mathematics and my Master of Science in Computer Science at Korea University. More details in my CV [here.](/sihwa-park-cv.pdf) 
 
-Preferred way of being contacted: iamsihwapark@gmail.com
+Preferred way of being contacted: __iamsihwapark@gmail.com__
 
 ## Research Interests
 
